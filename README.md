@@ -2,6 +2,8 @@
 
 An interactive mind map for Critical & TOC Thinkers who want to improve their Logic Trees.
 
+![SocraticTOC](https://github.com/JuergenKanz/SocraticTOC/2021-01-22 13_45_11-PowerPoint-Bildschirmpräsentation - [images.pptx].jpg)
+
 The mind map has been developed with Mindjet Mindmanager® 21 for Windows. The created output is an interactive HTML5 file, which runs on almost all web browsers. So, apart from the SocraticTOC.html file, no extra software is needed.
 
 The attached PDF file "SocraticTOC - Introduction" contains some hints on how to work with the mind map.
