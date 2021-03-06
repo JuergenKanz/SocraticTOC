@@ -1,6 +1,6 @@
 # SocraticTOC - Socratic Questioning in TOC Thinking Processes
 
-An interactive mind map for Critical & TOC Thinkers who want to improve their Logic Trees.
+An interactive mind map for thinkers who want to improve their logic.
 
 ![SocraticTOC](https://github.com/JuergenKanz/SocraticTOC/blob/main/cover.jpg)
 
